@@ -1,0 +1,24 @@
+{
+	"name": "antwerp-blue-theme",
+	"displayName": "Antwerp Blue theme",
+	"publisher": "Khsmty",
+	"description": "Light theme based on Antwerp blue",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Khsmty/antwerp-blue-theme.git"
+	},
+	"engines": {
+		"vscode": "^1.92.0"
+	},
+	"categories": ["Themes"],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Antwerp Blue",
+				"uiTheme": "vs",
+				"path": "./themes/Antwerp Blue-color-theme.json"
+			}
+		]
+	}
+}
