@@ -8,7 +8,8 @@
 		"button.background": "#1a4472",
 		"button.foreground": "#eeeeee",
 
-		"list.activeSelectionIconForeground": "#ffffff",
+		"list.activeSelectionBackground": "#c3ccd5",
+		"list.activeSelectionForeground": "#495e75",
 
 		"activityBar.background": "#f4f6f8",
 		"activityBar.dropBorder": "#8499b0",
@@ -16,6 +17,16 @@
 		"activityBar.inactiveForeground": "#c2c9d0",
 		"activityBarBadge.background": "#1a4472",
 		"activityBarBadge.foreground": "#eeeeee",
+
+		"sideBar.background": "#f4f6f8",
+		"sideBar.dropBackground": "#c3ccd5",
+
+		"editorGroupHeader.tabsBackground": "#f4f6f8",
+		"tab.activeBackground": "#f4f6f8",
+		"tab.activeForeground": "#495e75",
+		"tab.activeBorder": "#1a4472",
+		"tab.inactiveBackground": "#f4f6f8",
+		"tab.inactiveForeground": "#8593a2",
 
 		"editor.background": "#f4f6f8",
 		"editor.foreground": "#495e75",

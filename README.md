@@ -1,16 +1,11 @@
-# antwerp-blue-theme README
+# Antwerp Blue theme for VS Code
 
-## Working with Markdown
+![Screenshot](https://raw.githubusercontent.com/Khsmty/antwerp-blue-theme/main/screenshot.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This is a light theme for Visual Studio Code based on Antwerp Blue.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## What is Antwerp Blue?
 
-## For more information
+Antwerp Blue is a rich, deep shade of blue with a slightly greenish undertone. It's named after the Belgian city of Antwerp, known for its historical ties to the art and jewelry world.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+The appeal of Antwerp Blue lies in its luxurious and sophisticated quality. It evokes a sense of depth and mystery, while also being elegant and timeless. This color is often associated with high-end fashion, jewelry, and interior design.
