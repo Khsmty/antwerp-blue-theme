@@ -1,17 +1,27 @@
 {
 	"name": "antwerp-blue-theme",
 	"displayName": "Antwerp Blue theme",
-	"publisher": "Khsmty",
 	"description": "Light theme based on Antwerp blue",
 	"version": "0.0.1",
+	"publisher": "Khsmty",
+	"license": "MIT",
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#1a4472",
+		"theme": "light"
+	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/Khsmty/antwerp-blue-theme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Khsmty/antwerp-blue-theme/issues"
 	},
 	"engines": {
 		"vscode": "^1.92.0"
 	},
 	"categories": ["Themes"],
+	"keywords": ["theme", "light", "antwerp", "blue"],
 	"contributes": {
 		"themes": [
 			{

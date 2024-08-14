@@ -1,9 +1,34 @@
 {
 	"name": "Antwerp Blue",
 	"colors": {
-		"editor.background": "#f5f5f5",
-		"editor.foreground": "#333333",
-		"list.activeSelectionIconForeground": "#fff"
+		"focusBorder": "#8499b0",
+		"foreground": "#495e75",
+		"selection.background": "#c3ccd5",
+
+		"button.background": "#1a4472",
+		"button.foreground": "#eeeeee",
+
+		"list.activeSelectionIconForeground": "#ffffff",
+
+		"activityBar.background": "#f4f6f8",
+		"activityBar.dropBorder": "#8499b0",
+		"activityBar.foreground": "#495e75",
+		"activityBar.inactiveForeground": "#c2c9d0",
+		"activityBarBadge.background": "#1a4472",
+		"activityBarBadge.foreground": "#eeeeee",
+
+		"editor.background": "#f4f6f8",
+		"editor.foreground": "#495e75",
+
+		"panel.background": "#f4f6f8",
+
+		"statusBar.background": "#f4f6f8",
+		"statusBar.foreground": "#8593a2",
+		"statusBar.debuggingBackground": "#495e75",
+		"statusBar.debuggingForeground": "#eeeeee",
+
+		"titleBar.activeBackground": "#f4f6f8",
+		"titleBar.activeForeground": "#495e75"
 	},
 	"tokenColors": [
 		{
