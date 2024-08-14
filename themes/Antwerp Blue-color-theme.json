@@ -30,6 +30,10 @@
 
 		"editor.background": "#f4f6f8",
 		"editor.foreground": "#495e75",
+		"editorLineNumber.foreground": "#c3ccd5",
+		"editorLineNumber.activeForeground": "#495e75",
+		"editorCursor.background": "#f4f6f8",
+		"editorCursor.foreground": "#1a4472",
 
 		"panel.background": "#f4f6f8",
 
@@ -37,9 +41,15 @@
 		"statusBar.foreground": "#8593a2",
 		"statusBar.debuggingBackground": "#495e75",
 		"statusBar.debuggingForeground": "#eeeeee",
+		"statusBar.noFolderBackground": "#f4f6f8",
+		"statusBar.noFolderForeground": "#8593a2",
 
 		"titleBar.activeBackground": "#f4f6f8",
-		"titleBar.activeForeground": "#495e75"
+		"titleBar.activeForeground": "#495e75",
+
+		"settings.headerForeground": "#1a4472",
+		"settings.modifiedItemIndicator": "#495e75",
+		"settings.checkboxForeground": "#1a4472"
 	},
 	"tokenColors": [
 		{
