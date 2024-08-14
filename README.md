@@ -1,6 +1,6 @@
 # Antwerp Blue theme for VS Code
 
-![Screenshot](https://raw.githubusercontent.com/Khsmty/antwerp-blue-theme/main/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Khsmty/antwerp-blue-theme/main/screenshot.webp)
 
 This is a light theme for Visual Studio Code based on Antwerp Blue.
 
